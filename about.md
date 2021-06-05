@@ -5,11 +5,10 @@ layout: page
 bodyClass: page-about
 ---
 
-At EDR Electronics, we provide solutions for the development of electronics 
-hardware and software, all the way from concept to manufacturing. With our 
-in-depth knowledge and expertise, the EDR Electronics team are able to work 
-with you to deliver state of the art products to meet all your manufacturing 
-demands, project deadlines and cost requirements.
+At EDR Electronics, we provide solutions for the development of electronics hardware and software, 
+all the way from concept to manufacturing. With our  in-depth knowledge and expertise, 
+the EDR Electronics team are able to work with you to deliver state of the art products 
+to meet all your manufacturing demands, project deadlines and cost requirements.
 
 ## Ne verba patulosque numen vix libet
 
