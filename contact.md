@@ -1,5 +1,5 @@
 ---
-title: Ask Us Anything. Anytime.
+title: Ask Us Anything, Anytime.
 layout: contact
 bodyClass: page-contact
 ---
