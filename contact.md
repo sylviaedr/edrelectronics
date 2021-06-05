@@ -8,6 +8,6 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Weekdays  | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Weekdays  | 8:30am - 5pm    |
+| Saturday  | 10am - 4pm      |
 | Sunday    | Closed          |
