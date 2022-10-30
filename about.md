@@ -27,8 +27,6 @@ We have extensive experience in a variety of electronic designs, including:
 - Schematic capture and printed circuit board (PCB) layouts
 - Information kiosks, industrial computers, and touch screens
 
-## How We Can Help
-
 Based in Australia, we pride ourselves in delivering cost-effective electronic solutions.
 EDR Electronics aims to deliver consistent quality and service by providing reliable customer service
 and low-cost product design.
