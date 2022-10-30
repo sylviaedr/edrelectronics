@@ -10,44 +10,26 @@ all the way from concept to manufacturing. With our  in-depth knowledge and expe
 our team is able to work with you to deliver state of the art products 
 to meet all your manufacturing demands, project deadlines and cost requirements.
 
-## Ne verba patulosque numen vix libet
+## Expertise in Product Design
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We have extensive experience in a variety of electronic designs, including:
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+- General electronic design
+- Electromagnetic compatibility (EMC)
+- Instrumentation and medical devices
+- Mixed signal electronic systems
+- Microprocessors, microcontrollers, digital signal processors (hardware and software) 
+- Embedded systems software
+- WiFi, Bluetooth, and low power radio frequency (RF) remotes
+- Small signal and low-noise analogue design
+- Control systems
+- Low-power and low-voltage design 
+- Schematic capture and printed circuit board (PCB) layouts
+- Information kiosks, industrial computers, and touch screens
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## How We Can Help
 
-## Postquam tamen
+Based in Australia, we pride ourselves in delivering cost-effective electronic solutions.
+EDR Electronics aims to deliver consistent quality and service by providing reliable customer service
+and cost-effective product design.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
