@@ -31,5 +31,5 @@ We have extensive experience in a variety of electronic designs, including:
 
 Based in Australia, we pride ourselves in delivering cost-effective electronic solutions.
 EDR Electronics aims to deliver consistent quality and service by providing reliable customer service
-and cost-effective product design.
+and low-cost product design.
 
